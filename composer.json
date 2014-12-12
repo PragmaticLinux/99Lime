@@ -1,12 +1,15 @@
 {
     "name": "pragmaticlinux/99lime",
+    "type": "library",
     "license": "MIT",
+    "keywords": ["css","framework","front-end","html"],
+    "homepage": "http://www.pragmaticlinux.org",
     "description": "Ultra–Lean HTML Building Blocks for Rapid Website Production",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Joshua Gatcke",
             "email": "joshua@99lime.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev"
 }
