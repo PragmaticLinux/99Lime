@@ -1,0 +1,12 @@
+{
+    "name": "pragmaticlinux/99lime",
+    "license": "MIT",
+    "description": "Ultra–Lean HTML Building Blocks for Rapid Website Production",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Joshua Gatcke",
+            "email": "joshua@99lime.com"
+        }
+    ]
+}
